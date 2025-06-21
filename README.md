@@ -23,5 +23,8 @@ This project is built using **Spring Boot**, **Spring MVC**, **Thymeleaf**, **Po
 - Bootstrap 5
 - Eclipse / Spring Tool Suite (STS)
 
-## 📁 Project Structure
+## 🔍 Project Preview
+
+![Project Screenshot](images/preview.png)
+
 
