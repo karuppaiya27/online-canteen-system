@@ -27,11 +27,17 @@ This project is built using **Spring Boot**, **Spring MVC**, **Thymeleaf**, **Po
 
 ## 🔍 Project Preview
 
-![Screenshot](images/Screenshot 2025-06-21 134519.png)
-![Screenshot](images/Screenshot 2025-06-21 134545.png)
-![Screenshot](images/Screenshot 2025-06-21 134613.png)
-![Screenshot](images/Screenshot 2025-06-21 134739.png)
-![Screenshot](images/Screenshot 2025-06-21 134758.png)
->>>>>>> 888df96 (Updated README with project preview screenshots)
+<p align="center">
+  <img src="images/Screenshot 2025-06-21 134519.png" width="600" />
+  <br><br>
+  <img src="images/Screenshot 2025-06-21 134545.png" width="600" />
+  <br><br>
+  <img src="images/Screenshot 2025-06-21 134613.png" width="600" />
+  <br><br>
+  <img src="images/Screenshot 2025-06-21 134739.png" width="600" />
+  <br><br>
+  <img src="images/Screenshot 2025-06-21 134758.png" width="600" />
+</p>
+
 
 
