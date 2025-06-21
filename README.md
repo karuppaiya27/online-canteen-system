@@ -25,13 +25,7 @@ This project is built using **Spring Boot**, **Spring MVC**, **Thymeleaf**, **Po
 
 ## 📁 Project Structure
 
-## 🔍 Project Preview
 
-![Screenshot](images/Screenshot 2025-06-21 134519.png)
-![Screenshot](images/Screenshot 2025-06-21 134545.png)
-![Screenshot](images/Screenshot 2025-06-21 134613.png)
-![Screenshot](images/Screenshot 2025-06-21 134739.png)
-![Screenshot](images/Screenshot 2025-06-21 134758.png)
 
 
 
