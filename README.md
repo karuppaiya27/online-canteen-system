@@ -27,6 +27,7 @@ This project is built using **Spring Boot**, **Spring MVC**, **Thymeleaf**, **Po
 
 ## 🔍 Project Preview
 
-![Screenshot](images/preview.png)
+![Screenshot](preview.png)
+
 
 
